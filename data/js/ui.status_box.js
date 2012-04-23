@@ -24,11 +24,6 @@ reg_fake_dots: null,
 last_sent_text: '',
 
 short_url_base: 'http://api.bit.ly/v3/shorten?login=shellex&apiKey=R_81c9ac2c7aa64b6d311ff19d48030d6c&format=json&longUrl=',
-// @BUG (webkit for linux)
-// keyup and keydown will fire twice in Chrome
-// keydown will fire twice in WebkitGtk.
-// @WORKAROUND use the flag to ignore the first one.
-keydown_twice_flag: 0,
 
 get_status_len:
 function get_status_len(status_text) {
@@ -157,23 +152,19 @@ function init () {
     });
 
     $('#tbox_status').keydown(
-    function (event) {
-        //ui.StatusBox.update_status_len();
-        // @WORKAROUND ignore the duplicate keydown event in WebkitGtk
-        // However, if ignore all keydown event will cause some bugs
-        // if user use IM to compose status text. 
-        // for example, 
-        // backspace doesn't work, can't type english characters, etc. 
-        // so i only ignore event associate with program's behaviors.
-        if (event.ctrlKey && event.keyCode == 13) {
-            ui.StatusBox.keydown_twice_flag += 1;
-            if (ui.StatusBox.keydown_twice_flag % 2 == 0 
-                && util.is_native_platform()) 
+    function (event) { 
+        // shortcut binding Ctrl+Enter or Command+Enter(Mac)
+        if (navigator.platform.indexOf('Mac') != -1) {
+            if (event.metaKey && event.keyCode === 13) {
+                $('#btn_update').click();
+            }
+        } else {
+            if (event.ctrlKey && event.keyCode === 13) {
+                $('#btn_update').click();
                 return false;
-            // shortcut binding Ctrl+Enter
-            $('#btn_update').click();
-            return false;
+            }
         }
+
         if (event.keyCode == 27) { // esc
             ui.StatusBox.close();
         }
@@ -309,6 +300,7 @@ function update_status(status_text) {
             'text': status_text
         };
         if (ui.StatusBox.MODE_REPLY) {
+            draft.mode = ui.StatusBox.MODE_REPLY;
             draft.reply_to_id = ui.StatusBox.reply_to_id;
             draft.reply_text = encodeURIComponent($('#status_box .info_text').text());
         }
@@ -353,7 +345,7 @@ function post_message(message_text) {
     if (message_text.length != 0) {
         var name = $.trim($('#tbox_dm_target').val());
         var draft = {
-            'mode': ui.StatusBox.MODE_TWEET, 
+            'mode': ui.StatusBox.MODE_DM, 
             'text': message_text,
             'recipient': encodeURIComponent(name)
         };

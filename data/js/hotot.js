@@ -391,7 +391,7 @@ function init_dialogs() {
     globals.error_dialog.create();
 
     globals.about_dialog = new widget.Dialog('#about_dlg');
-    globals.about_dialog.resize(500, 400);
+    globals.about_dialog.resize(500, 500);
     globals.about_dialog.place(widget.DialogManager.CENTER);
     globals.about_dialog.create();
 
@@ -526,7 +526,7 @@ function init_hotkey() {
         ui.Slider.slide_to('search');
     });
 
-    // @TODO Actions, prefix 'a'
+    // Actions, prefix 'a'
     // 'a' then 'r' to reply
     hotkey.register("ar", function() {
         if (ui.Main.selected_tweet_id != null) {
@@ -605,22 +605,14 @@ function init_hotkey() {
         ui.Finder.show();
     });
 
-    // 'z' then 'o' to expand
-    hotkey.register("zo", function () {
-        if (ui.Main.selected_tweet_id != null) {
-            var btn = $(ui.Main.selected_tweet_id)
-                .find('.btn_tweet_thread:first');
-            btn.removeClass('expand');
-            btn.click();
-        }
-    });
-    // 'z' then 'c' to fold
+    // 'z' then 'c' to fold/un-fold conversation
     hotkey.register("zc", function () {
         if (ui.Main.selected_tweet_id != null) {
             var btn = $(ui.Main.selected_tweet_id)
                 .find('.btn_tweet_thread:first')
-            btn.addClass('expand');
-            btn.click();
+            if (btn.is(':visible')) {
+                btn.click();
+            }
         }
     });
 
@@ -633,6 +625,13 @@ function init_hotkey() {
     // :)
     hotkey.register("#@!^&", function(){
         $('.profile_img_wrapper').css('background-image', 'url(image/ic48_profile_image.png)');
+    });
+	hotkey.register("MIRROR", "gm", function(){
+		if ($('body').css('-webkit-transform') != 'none') {
+        	$('body').css('-webkit-transform', 'none');
+		} else {
+        	$('body').css('-webkit-transform', 'rotateY(180deg)');
+		}
     });
 }
 
@@ -655,7 +654,7 @@ function on_load_finish() {
     // if native_platform
     //      wait until the webview is ready.
     if (util.is_native_platform() && globals.load_flags == 0) {
-        setTimeout(on_load_finish, 1000);
+        setTimeout(on_load_finish, 100);
     } else {
         hotot_log('init', 'on_load_finish()');
         globals.load_flags = 1;
