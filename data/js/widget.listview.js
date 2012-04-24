@@ -54,6 +54,9 @@ function WidgetListView(id, name, params) {
         self._footer = self._me.find('.listview_footer');
         self._content = self._me.find('.listview_content');
         self.scrollbar = new widget.Scrollbar(self._me.find('.scrollbar_track'), self._me.find('.scrollbar_content'))
+        if (navigator.platform === 'iPad') {
+            self.scrollbar.disable()
+        }
 
         // notification
         var prefs = conf.profiles[conf.current_name].preferences;
@@ -168,7 +171,9 @@ function WidgetListView(id, name, params) {
         for (var k in self) {
             self[k] = null;
         }
-        self.scrollbar.destroy()
+        if (self.scrollbar) {
+            self.scrollbar.destroy()
+        }
         self = null;
     };
 

@@ -63,6 +63,11 @@ function init () {
                 ui.Main.move_to_tweet('top');
             } else { 
                 ui.Slider.slide_to(view_name);
+                if (view_name === 'search') {
+                    setTimeout(function () {
+                    $('#search_tweetview .search_entry').focus();
+                    }, 1000);
+                }
             }
         }
         return false;
