@@ -1,210 +1,210 @@
 {
 	"about": {
-		"message": "Относно",
+		"message": "Σχετικά",
 		"description": "data/index.html"
 	},
 	"about_and_help": {
-		"message": "Относно и Помощ",
+		"message": "Σχετικά & Βοήθεια",
 		"description": "data/index.html"
 	},
 	"access_token_doesnt_exist": {
-		"message": "Няма разрешение за достъп",
+		"message": "Δεν υπάρχει τεκμήριο πρόσβασης",
 		"description": "data/index.html"
 	},
 	"action": {
-		"message": "Действие",
+		"message": "Ενέργεια",
 		"description": "data/index.html"
 	},
 	"add": {
-		"message": "Добави",
+		"message": "Προσθήκη",
 		"description": "data/index.html"
 	},
 	"add_new_views": {
-		"message": "Добави нови колони",
+		"message": "Προσθήκη νέας καρτέλας",
 		"description": "data/index.html"
 	},
 	"add_to_list": {
-		"message": "Добави към списък",
+		"message": "Προσθήκη σε λίστα",
 		"description": "data/js/ui.template.js"
 	},
 	"advanced": {
-		"message": "Разширени",
+		"message": "Για προχωρημένους",
 		"description": "data/index.html"
 	},
 	"all": {
-		"message": "Всички",
+		"message": "Όλα",
 		"description": "data/index.html"
 	},
 	"api_base": {
-		"message": "API база",
+		"message": "Βάση API",
 		"description": "data/index.html"
 	},
 	"api_setting": {
-		"message": "API настройки",
+		"message": "Ρυθμίσεις API",
 		"description": "data/index.html"
 	},
 	"appearance": {
-		"message": "Изглед",
+		"message": "Εμφάνιση",
 		"description": "data/index.html"
 	},
 	"archive": {
-		"message": "Архив",
+		"message": "Ιστορικό",
 		"description": "data/index.html"
 	},
 	"assassin_s_tango": {
-		"message": "Тангото на убиеца",
+		"message": "Assassin's Tango",
 		"description": "data/index.html"
 	},
 	"authentication_ok": {
-		"message": "Удостоверяването е ОК!",
+		"message": "Επιτυχής τεκμηρίωση!",
 		"description": "data/js/ui.welcome.js"
 	},
 	"author": {
-		"message": "Автор",
+		"message": "Δημιουργός",
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"auto_update": {
-		"message": "Автоматично обновяване",
+		"message": "Αυτόματη ενημέρωση",
 		"description": "data/index.html"
 	},
 	"automatically_sign_in_after_opening": {
-		"message": "Автоматично вписване",
+		"message": "Αυτόματη σύνδεση",
 		"description": "data/index.html"
 	},
 	"balance_between_attractiveness_and_preformance": {
-		"message": "Баланс между атрактивност и производителност.",
+		"message": "Ισοροποία μεταξύ ελκυστικότητα και απόδοσης.",
 		"description": "data/index.html"
 	},
 	"behavior": {
-		"message": "Поведение",
+		"message": "Συμπεριφορά",
 		"description": "data/index.html"
 	},
 	"bio": {
-		"message": "Биграфия",
+		"message": "Βιογραφία",
 		"description": "data/index.html"
 	},
 	"block": {
-		"message": "Блокирай",
+		"message": "Φραγή",
 		"description": "data/js/ui.template.js"
 	},
 	"bloody_marguerite": {
-		"message": "Кървавата Маргерит",
+		"message": "Bloody Marguerite",
 		"description": "data/index.html"
 	},
 	"cancel": {
-		"message": "Отказ",
+		"message": "Ακύρωση",
 		"description": "data/index.html"
 	},
 	"cannot_authenticate_you_please_check_your_username_or_password_and_api_base": {
-		"message": "Грешно удостоверяване! Моля, проверете потребителското име/паролата и АПИ базата",
+		"message": "Υπήρξε σφάλμα στην πιστοποίηση! Παρακαλώ ελέγξτε το όνομα χρήστη, το κωδικό και την βάση του API",
 		"description": "data/js/ui.welcome.js"
 	},
 	"charactor_at_is_not_allow_in_profile_prefix": {
-		"message": "Знакът `@` не е позволен",
+		"message": "Ο χαρακτήρας `@` δεν επιτρέπεται στο prefix του προφίλ",
 		"description": "data/js/ui.welcome.js"
 	},
 	"chrome_context_menu_integration": {
-		"message": "",
+		"message": "Chrome context menu integration",
 		"description": "data/index.html"
 	},
 	"clean_token": {
-		"message": "Премахни разрешението за достъп",
+		"message": "Εκκαθάριση τεκμηρίου",
 		"description": "data/index.html"
 	},
 	"clear": {
-		"message": "Премахни",
+		"message": "Εκκαθάριση",
 		"description": "data/index.html"
 	},
 	"clear_and_close": {
-		"message": "Премахни и Затвори",
+		"message": "Εκκαθάριση και κλείσιμο",
 		"description": "data/index.html"
 	},
 	"click_me_to_continue": {
-		"message": "Кликни за продължение",
+		"message": "Πατήστε εδώ για συνέχεια",
 		"description": "data/index.html"
 	},
 	"click_the_button_below": {
-		"message": "Кликни долния бутон",
+		"message": "Πατήστε το παρακάτω κουμπί",
 		"description": "data/index.html"
 	},
 	"click_to_compose_message": {
-		"message": "Кликни за създаване на съобщение",
+		"message": "Πατήστε εδώ για σύνθεση μυνήματος",
 		"description": "data/index.html"
 	},
 	"click_to_show": {
-		"message": "Кликни за показване",
+		"message": "Πατήστε εδώ για εμφάνιση",
 		"description": "data/js/ui.template.js"
 	},
 	"click_to_show_retweeters": {
-		"message": "Кликни за да се покажат ретуитърите",
+		"message": "Πατήστε εδώ για εμφάνιση των retweeter",
 		"description": "data/js/ui.template.js"
 	},
 	"close": {
-		"message": "Затвори",
+		"message": "Κλείσιμο",
 		"description": "data/index.html"
 	},
 	"close_current_column": {
-		"message": "Затвори настоящата колона",
+		"message": "Κλείσιμο τρέχουσας στήλης",
 		"description": "data/index.html"
 	},
 	"compose": {
-		"message": "Създай",
+		"message": "Σύνθεση",
 		"description": "data/index.html"
 	},
 	"compose_messages_to": {
-		"message": "СЪЗДАЙ СЪОБЩЕНИЕ до",
+		"message": "ΣΥΝΘΕΣΗ ΜΥΝΗΜΑΤΟΣ Προς",
 		"description": "data/js/ui.status_box.js"
 	},
 	"copy_the_pin_code_and_paste_it_into_the_box_below": {
-		"message": "Копирай PIN кода и го постави тук",
+		"message": "Αντιγράψτε τον κωδικό PIN και επικολήστε τον παρακάτω",
 		"description": "data/index.html"
 	},
 	"copy_to_clipboard": {
-		"message": "Копирай в клипборда",
+		"message": "Αντιγραφή στο πρόχειρο",
 		"description": "date/index.html"
 	},
 	"create_a_list": {
-		"message": "Създай списък",
+		"message": "Δημιουργεία λίστας",
 		"description": "data/js/ui.template.js"
 	},
 	"credits": {
-		"message": "Заслуги",
+		"message": "Συντελεστές",
 		"description": "data/index.html"
 	},
 	"cuddly": {
-		"message": "Пуфкаф",
+		"message": "Cuddly",
 		"description": "data/index.html"
 	},
 	"debug": {
-		"message": "Дебъг",
+		"message": "Αποσφαλμάτωση",
 		"description": "data/index.html"
 	},
 	"default_picture_service": {
-		"message": "Услуга за картинки",
+		"message": "Προεπιλεγμένη υπηρεσία εικόνων",
 		"description": "data/index.html"
 	},
 	"delete": {
-		"message": "Изтрий",
+		"message": "Διαγραφή",
 		"description": "data/index.html"
 	},
 	"delete_this_tweet": {
-		"message": "Изтрий този туит",
+		"message": "Διαγραφή αυτού του tweet",
 		"description": "data/js/ui.template.js"
 	},
 	"destroy_successfully": {
-		"message": "Унищожено успешно!",
+		"message": "Καταστράφηκε επιτυχημένα!",
 		"description": "data/js/ui.main.js"
 	},
 	"disable": {
-		"message": "Забрани",
+		"message": "Απενεργοποίηση",
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"disable_decoration_of_widgets_and_some_animations": {
-		"message": "Забрани декорациите и някои анимации.",
+		"message": "Απενεργοποίηση της διακόσμησης των widget και μερικών animation.",
 		"description": "data/index.html"
 	},
 	"disabled": {
-		"message": "Забранено",
+		"message": "Απενεργοποιημένα",
 		"description": "data/index.html"
 	},
 	"dots": {
@@ -212,155 +212,155 @@
 		"description": "data/js/ui.main.js"
 	},
 	"drafts": {
-		"message": "Задържани",
+		"message": "Πρόχειρα",
 		"description": "data/js/ui.status_box.js"
 	},
 	"drag_a_photo_here": {
-		"message": "Завлачи снимката тук",
+		"message": "Σύρετε μια εικόνα εδώ",
 		"description": "data/index.html"
 	},
 	"drop": {
-		"message": "Пусни",
+		"message": "Αφήστε",
 		"description": "data/index.html"
 	},
 	"edit": {
-		"message": "Редактирай",
+		"message": "Επεξεργασία",
 		"description": "data/js/ui.template.js"
 	},
 	"effects": {
-		"message": "Ефекти",
+		"message": "Εφέ",
 		"description": "data/index.html"
 	},
 	"effects_extra": {
-		"message": "Екстра",
+		"message": "Πολλά",
 		"description": "data/index.html"
 	},
 	"effects_low": {
-		"message": "Ниски",
+		"message": "Λίγα",
 		"description": "data/index.html"
 	},
 	"effects_normal": {
-		"message": "Нормални",
+		"message": "Κανονικά",
 		"description": "data/index.html"
 	},
 	"enable": {
-		"message": "Разреши",
+		"message": "Ενεργοποίηση",
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"enable_proxy": {
-		"message": "Разреши прокси",
+		"message": "Ενεργοποίηση Proxy",
 		"description": "data/index.html"
 	},
 	"enable_verbose_mode": {
-		"message": "Разреши Verbose Mode",
+		"message": "Ενεργοποίηση Verbose Mode",
 		"description": "data/index.html"
 	},
 	"enabled": {
-		"message": "Разрешено",
+		"message": "Ενεργοποιημένα",
 		"description": "data/index.html"
 	},
 	"errors": {
-		"message": "Грешки",
+		"message": "Λάθη",
 		"description": "data/index.html"
 	},
 	"examples": {
-		"message": "Примери",
+		"message": "Παραδείγματα",
 		"description": "data/index.html"
 	},
 	"exit_hotot_when_close_window": {
-		"message": "Спри Hotot при затваряне на прозореца",
+		"message": "Έξοδος από το Hotot όταν κλίνει το παράθυρο",
 		"description": "data/index.html"
 	},
 	"extensions": {
-		"message": "Разширения",
+		"message": "Επεκτάσεις",
 		"description": "data/index.html"
 	},
 	"fav_or_un_fav": {
-		"message": "Харесвам/Не харесвам",
+		"message": "Αγαπημένο/μη αγαπημένο",
 		"description": "data/index.html"
 	},
 	"favorite_this_tweet_dots": {
-		"message": "Харесай този туит ...",
+		"message": "Προσθήκη στα αγαπημένα ...",
 		"description": "data/js/ui.main.js"
 	},
 	"favs": {
-		"message": "Любими",
+		"message": "Αγαπημένα",
 		"description": "data/js/ui.template.js"
 	},
 	"favs_view": {
-		"message": "Любими",
+		"message": "Αγαπημένα",
 		"description": "data/index.html"
 	},
 	"filter_tweets_like_it": {
-		"message": "Филтрирай туитове като този",
+		"message": "Φιλτράρισμα των tweet σαν αυτό",
 		"description": "data/index.html"
 	},
 	"find": {
-		"message": "Търси",
+		"message": "Αναζήτηση",
 		"description": "data/index.html"
 	},
 	"fine": {
-		"message": "Фино",
+		"message": "Fine",
 		"description": "data/js/lib.twitterapi.js"
 	},
 	"first_time_to_sign_in_with_twitter": {
-		"message": "Регистриран",
+		"message": "Πρώτη σύνδεση με το twitter",
 		"description": "data/index.html"
 	},
 	"follow": {
-		"message": "Следвай",
+		"message": "Ακολούθησε",
 		"description": "data/js/ui.template.js"
 	},
 	"follow_at": {
-		"message": "Следвай @",
+		"message": "Ακολούθησε @",
 		"description": "data/js/ui.main.js"
 	},
 	"follower_cnt": {
-		"message": "Последователи",
+		"message": "Ακόλουθος",
 		"description": "data/js/ui.template.js"
 	},
 	"followers": {
-		"message": "Последователи",
+		"message": "Ακόλουθοι",
 		"description": "data/js/ui.template.js"
 	},
 	"font": {
-		"message": "Шрифт",
+		"message": "Γραμματοσειρά",
 		"description": "data/index.html"
 	},
 	"font_preview_hint": {
-		"message": "Ах, чудна българска земьо, полюшвай цъфтящи жита!",
+		"message": "Η γρήγορα καφέ αλεπού πηδάει πάνω στον τεμπέλη σκύλο.",
 		"description": "data/index.html"
 	},
 	"font_size": {
-		"message": "Големина на шрифта",
+		"message": "Μέγεθος γραμματοσειράς",
 		"description": "data/index.html"
 	},
 	"friend_cnt": {
-		"message": "Приятели",
+		"message": "Φίλος",
 		"description": "data/js/ui.template.js"
 	},
 	"friends": {
-		"message": "Приятели",
+		"message": "Φίλοι",
 		"description": "data/js/ui.template.js"
 	},
 	"global": {
-		"message": "Общи",
+		"message": "Global",
 		"description": "data/index.html"
 	},
 	"globals_restart_hint": {
-		"message": "Трябва да рестартирате Hotot за да се приложат някои от промените. Това ще засегне ВСИЧКИ акаунти.",
+		"message": "Πρέπει να γίνει επανεκκίνηση του Hotot για να λάβουν χώρα μερικές από τις παρακάτω αλλαγές. Αυτές οι αλλαγές θα επηρεάσουν ΟΛΟΥΣ τους λογαριασμούς",
 		"description": "data/index.html"
 	},
 	"greeting": {
-		"message": "Поздравления!",
+		"message": "Χαιρετίσματα!",
 		"description": "data/index.html"
 	},
 	"help": {
-		"message": "Помощ",
+		"message": "Βοήθεια",
 		"description": "data/index.html"
 	},
 	"hey_it_is_you": {
-		"message": "Хей, това си ти!",
+		"message": "Εσύ είσαι!",
 		"description": "data/js/ui.peopleview.js"
 	},
 	"hidden_dark_minds": {
@@ -368,11 +368,11 @@
 		"description": "data/index.html"
 	},
 	"home_timeline": {
-		"message": "Поток",
+		"message": "Αρχική",
 		"description": "data/js/ui.slider.js"
 	},
 	"home_view": {
-		"message": "Поток",
+		"message": "Προβολή αρχικής",
 		"description": "data/index.html"
 	},
 	"hotot": {
@@ -380,31 +380,31 @@
 		"description": "data/index.html"
 	},
 	"http_proxy": {
-		"message": "HTTP прокси",
+		"message": "HTTP Proxy",
 		"description": "data/index.html"
 	},
 	"image_uploader": {
-		"message": "Публикуване на изображения",
+		"message": "Μεταφόρτωση εικόνων",
 		"description": "data/index.html"
 	},
 	"info": {
-		"message": "ИНФО",
+		"message": "ΠΛΗΡΟΦΟΡΙΕΣ",
 		"description": "data/js/ui.template.js"
 	},
 	"insert_smiley": {
-		"message": "Включи емотикони",
+		"message": "Εισαγωγή smiley",
 		"description": "data/index.html"
 	},
 	"intelligent_filter": {
-		"message": "Интелигентен филтър",
+		"message": "Έξυπνο φίλτρο",
 		"description": "data/index.html"
 	},
 	"interface_language": {
-		"message": "Език на интерфейса",
+		"message": "Γλώσσα διασύνδεσης",
 		"description": "data/index.html"
 	},
 	"join": {
-		"message": "За първи път на",
+		"message": "Εγγραφή",
 		"description": "data/js/ui.template.js"
 	},
 	"just_cannot_stop_thinking_of_here": {
@@ -416,179 +416,179 @@
 		"description": "data/index.html"
 	},
 	"keyboard": {
-		"message": "Клавиатура",
+		"message": "Πληκτρολόγιο",
 		"description": "data/index.html"
 	},
 	"keyboard_shortcuts": {
-		"message": "Бързи клавиши",
+		"message": "Συντομεύσεις πληκτρολογίου",
 		"description": "data/index.html"
 	},
 	"kismet_firewall": {
-		"message": "Kismet Защитна стена",
+		"message": "Kismet Firewall",
 		"description": "data/index.html"
 	},
 	"kismet_guide": {
-		"message": "Kismet Ръководство",
+		"message": "Οδηγός Kismet",
 		"description": "data/index.html"
 	},
 	"kismet_mute_hint": {
-		"message": "ВНИМАНИЕ: Туитове, които имат следните атрибути, няма да се появяват във Вашият поток.",
+		"message": "ΠΡΟΣΟΧΗ: Tweet τα οποία έχουν τα παρακάτω γνωρίσματα δεν θα εμφανίζονται στο timeline.",
 		"description": "data/index.html"
 	},
 	"label_with_color": {
-		"message": "Цветен етикет",
+		"message": "Μαρκάρισμα με χρώμα",
 		"description": "data/index.html"
 	},
 	"language": {
-		"message": "Език",
+		"message": "Γλώσσα",
 		"description": "data/index.html"
 	},
 	"let_hotot_collects_anonymous_statistic_information": {
-		"message": "Разреши Hotot да събира анонимно статистическа информация",
+		"message": "Επιτρέψτε στο Hotot να συλέγει ανόνυμες στατιστικές πληροφορίες",
 		"description": "data/index.html"
 	},
 	"license": {
-		"message": "Лиценз",
+		"message": "Άδεια",
 		"description": "data/index.html"
 	},
 	"list": {
-		"message": "Списък",
+		"message": "Λίστα",
 		"description": "data/index.html"
 	},
 	"listed_cnt": {
-		"message": "В списък",
+		"message": "Εισηγμένες",
 		"description": "data/js/ui.template.js"
 	},
 	"lists": {
-		"message": "Списъци",
+		"message": "Λίστες",
 		"description": "data/js/ui.template.js"
 	},
 	"lists_following_them": {
-		"message": "Списъци на следващите ги",
+		"message": "Λίστες που τον ακολουθούν",
 		"description": "data/js/ui.template.js"
 	},
 	"lists_of_them": {
-		"message": "Списъците им",
+		"message": "Δικές του λίστες",
 		"description": "data/js/ui.template.js"
 	},
 	"loading_dots": {
-		"message": "Зареждане ... ",
+		"message": "Φορτώνει ... ",
 		"description": "data/js/ui.template.js"
 	},
 	"loading_resources_hint": {
-		"message": "Зареждане на източници ...",
+		"message": "Φόρτωση πόρων ...",
 		"description": "data/index.html"
 	},
 	"location": {
-		"message": "Местоположение",
+		"message": "Τοποθεσία",
 		"description": "data/index.html"
 	},
 	"mark_deleted_tweets": {
-		"message": "Маркирай изтритите туитове",
+		"message": "Σημείωσε διεγραμμένα tweet",
 		"description": "data/index.html"
 	},
 	"mask": {
-		"message": "Маска",
+		"message": "Μάσκα",
 		"description": "data/index.html"
 	},
 	"mention_them": {
-		"message": "Споменаване",
+		"message": "Αναφορά",
 		"description": "data/js/ui.template.js"
 	},
 	"mentions": {
-		"message": "Споменавания",
+		"message": "Αναφορές",
 		"description": "data/js/ui.slider.js"
 	},
 	"mentions_view": {
-		"message": "Споменавания",
+		"message": "Προβολή αναφορών",
 		"description": "data/index.html"
 	},
 	"messages": {
-		"message": "Лични",
+		"message": "Μυνήματα",
 		"description": "data/js/ui.slider.js"
 	},
 	"messages_view": {
-		"message": "Лични",
+		"message": "Προβολή μυνημάτων",
 		"description": "data/index.html"
 	},
 	"misc": {
-		"message": "Разни",
+		"message": "Misc",
 		"description": "data/index.html"
 	},
 	"more_actions": {
-		"message": "Още",
+		"message": "Περισσότερα",
 		"description": "data/js/ui.template.js"
 	},
 	"more_effects_like_shadows_and_glow_of_widgets": {
-		"message": "Повече ефекти като сенки и блясък",
+		"message": "Περισσότερα εφέ όπως σκιές και λάμψεις στα widget",
 		"description": "data/index.html"
 	},
 	"move_to_bottom": {
-		"message": "Премести на дъното",
+		"message": "Μετακίνηση στο τέλος",
 		"description": "data/index.html"
 	},
 	"move_to_next_tweet": {
-		"message": "Прмести до следващия туит",
+		"message": "Μετακίνηση στο επόμενο tweet",
 		"description": "data/index.html"
 	},
 	"move_to_prev_tweet": {
-		"message": "Премести до предишния туит",
+		"message": "Μετακίνηση στο προηγούμενο tweet",
 		"description": "data/index.html"
 	},
 	"move_to_top": {
-		"message": "Премести отгоре",
+		"message": "Μετακίνηση στην αρχή",
 		"description": "data/index.html"
 	},
 	"mute_filter": {
-		"message": "Филтър за заглушаване",
+		"message": "Σίγαση φίλτρου",
 		"description": "data/index.html"
 	},
 	"my_favs": {
-		"message": "Любими",
+		"message": "Αγαπημένα",
 		"description": "data/js/ui.slider.js"
 	},
 	"my_journey_is_to_the_sea_of_stars": {
-		"message": "My Journey is to the sea of stars",
+		"message": "Το ταξίδι μου είναι στην θάλασσα των αστεριών",
 		"description": "data/index.html"
 	},
 	"my_power": {
-		"message": "Моята сила",
+		"message": "Η δύναμη μου",
 		"description": "data/js/lib.twitterapi.js"
 	},
 	"name": {
-		"message": "Име",
+		"message": "Όνομα",
 		"description": "data/index.html"
 	},
 	"nearly_dead": {
-		"message": "Почти мъртъв",
+		"message": "Σχεδόν νεκρό",
 		"description": "data/js/lib.twitterapi.js"
 	},
 	"network_error_please_try_later": {
-		"message": "Грешка в Мрежата! Опитай пак по-късно.",
+		"message": "Σφάλμα σύνδεσης! Παρακαλώ δοκιμάστε αργότερα.",
 		"description": "data/js/ui.welcome.js"
 	},
 	"new_profile_has_been_created": {
-		"message": "Създаден е нов профил!",
+		"message": "Δημιουργήθηκε νέο προφίλ!",
 		"description": "data/js/ui.welcome.js"
 	},
 	"next": {
-		"message": "Следващ",
+		"message": "Επόμενο",
 		"description": "data/index.html"
 	},
 	"no_extension": {
-		"message": "Без разширение",
+		"message": "No Extension",
 		"description": "data/index.html"
 	},
 	"notify": {
-		"message": "Уведоми",
+		"message": "Ειδοποίηση",
 		"description": "data/index.html"
 	},
 	"oauth_base": {
-		"message": "OAuth база",
+		"message": "Βάση OAuth",
 		"description": "data/index.html"
 	},
 	"official_retweet_this_tweet": {
-		"message": "Официално ретуитни този туит",
+		"message": "Official retweet this tweet",
 		"description": "data/js/ui.template.js"
 	},
 	"ok": {
@@ -596,203 +596,203 @@
 		"description": "data/index.html"
 	},
 	"oops_a_network_error_occurs": {
-		"message": "Опааа, грешка в Мрежата",
+		"message": "Oops, A Network Error Occurs",
 		"description": "data/js/ui.welcome.js"
 	},
 	"oops_an_api_error_occurs": {
-		"message": "Опаа, грешка в API!",
+		"message": "Oops, An API Error Occurs!",
 		"description": "data/js/ui.welcome.js"
 	},
 	"open_a_list_dots": {
-		"message": "Отвори списък ...",
+		"message": "Άνοιγμα λίστας ...",
 		"description": "data/index.html"
 	},
 	"open_a_profile_dots": {
-		"message": "Отвори профил ...",
+		"message": "Άνοιγμα προφίλ ...",
 		"description": "data/index.html"
 	},
 	"open_first_link": {
-		"message": "Отвори първия линк",
+		"message": "Άνοιγμα πρώτου συνδέσμου",
 		"description": "data/index.html"
 	},
 	"open_speaker_link": {
-		"message": "Отвори speaker линк",
+		"message": "Open speaker link",
 		"description": "data/index.html"
 	},
 	"operations": {
-		"message": "Операции",
+		"message": "Operations",
 		"description": "data/index.html"
 	},
 	"options": {
-		"message": "Опции",
+		"message": "Επιλογές",
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"or_copy_the_address_and_open_it_in_your_browser": {
-		"message": "или копирай адрес и го отвори в браузъра си.",
+		"message": "Ή αντιγράψτε την διεύθυνση και ανοίξτε την στον φυλλομετριτή σας.",
 		"description": "data/index.html"
 	},
 	"panda_acts_cute": {
-		"message": "Panda acts cute",
+		"message": "Τα πάντα αντιδρούν γλυκά",
 		"description": "data/index.html"
 	},
 	"paste_from_clipboard": {
-		"message": "Постави от клипборда",
+		"message": "Επικόληση από το πρόχειρο",
 		"description": "date/index.html"
 	},
 	"pin_code": {
-		"message": "PIN код",
+		"message": "Κωδικός PIN",
 		"description": "data/index.html"
 	},
 	"please_enter_the_recipient": {
-		"message": "Моля, попълнете получателя!",
+		"message": "παρακαλώ εισάγετε τον παραλήπτη!",
 		"description": "data/js/ui.status_box.js"
 	},
 	"please_entry_a_profile_prefix": {
-		"message": "Моля, попълнете префикса на получателя",
+		"message": "Παρακαλώ εισάγετε ένα profile prefix",
 		"description": "data/js/ui.welcome.js"
 	},
 	"post_successfully": {
-		"message": "Успешно публикуване!",
+		"message": "Αναρτήθηκε επιτυχώς!",
 		"description": "data/js/ui.status_box.js"
 	},
 	"posting_dots": {
-		"message": "Публикуване ...",
+		"message": "Ανάρτηση ...",
 		"description": "data/js/ui.status_box.js"
 	},
 	"powerfull": {
-		"message": "Силен",
+		"message": "Ισχυρό",
 		"description": "data/js/lib.twitterapi.js"
 	},
 	"preferences": {
-		"message": "Настройки",
+		"message": "Προτιμήσεις",
 		"description": "data/index.html"
 	},
 	"preload_latest_tweets_in_conversations_if_possible": {
-		"message": "Презареди последните туитове в разговори, ако е възможно.",
+		"message": "Προφόρτωση των τελευταίων tweet στις συνομιλίες εάν είναι δυνατό.",
 		"description": "data/index.html"
 	},
 	"press_ctrl_and_enter_to_update": {
-		"message": "Натисни Ctrl + Enter за публикуване",
+		"message": "Πιέστε Ctrl + Enter για ενημέρωση",
 		"description": "data/index.html"
 	},
 	"pretty_wife": {
-		"message": "Убава жена",
+		"message": "Pretty wife",
 		"description": "data/index.html"
 	},
 	"preview": {
-		"message": "Преглед",
+		"message": "Προεπισκόπηση",
 		"description": "data/index.html"
 	},
 	"preview_embedded_media": {
-		"message": "Преглед на включените медии",
+		"message": "Προεπισκόπηση ενσωματωμένων media",
 		"description": "data/index.html"
 	},
 	"preview_here": {
-		"message": "Преглед тук",
+		"message": "Προεπισκόπηση εδώ",
 		"description": "data/index.html"
 	},
 	"profile": {
-		"message": "Профил",
+		"message": "Προφίλ",
 		"description": "data/index.html"
 	},
 	"proxy_auth": {
-		"message": "Удостоверяване",
+		"message": "Πιστοποίηση",
 		"description": "data/index.html"
 	},
 	"quick_references": {
-		"message": "Бързи препратки",
+		"message": "Quick References",
 		"description": "data/index.html"
 	},
 	"quit_hotot": {
-		"message": "Напусни Hotot",
+		"message": "Έξοδος από το Hotot",
 		"description": "data/index.html"
 	},
 	"quote": {
-		"message": "Цитирай",
+		"message": "Παράθεση",
 		"description": "data/index.html"
 	},
 	"relation": {
-		"message": "Отношение",
+		"message": "Σχέση",
 		"description": "data/js/ui.template.js"
 	},
 	"reload": {
-		"message": "Презареди",
+		"message": "Ανανέωση",
 		"description": "data/index.html"
 	},
 	"reply": {
-		"message": "Отговор",
+		"message": "Απάντηση",
 		"description": "data/index.html"
 	},
 	"reply_all": {
-		"message": "Отговор на всички",
+		"message": "Απάντηση σε όλους",
 		"description": "data/index.html"
 	},
 	"reply_this_tweet": {
-		"message": "Отговори на този туит",
+		"message": "Απάντηση σε αυτό το tweet",
 		"description": "data/js/ui.template.js"
 	},
 	"reply_to": {
-		"message": "отговор до",
+		"message": "απάντηση σε",
 		"description": "data/js/ui.template.js"
 	},
 	"report_spam": {
-		"message": "Докладвай СПАМ",
+		"message": "Αναφορά ως Spam",
 		"description": "data/js/ui.template.js"
 	},
 	"reset_time": {
-		"message": "Време до зануляване",
+		"message": "Reset Time",
 		"description": "data/js/lib.twitterapi.js"
 	},
 	"restore_defaults": {
-		"message": "Възстанови до подразбиране",
+		"message": "Επαναφορά προεπιλεγμένων",
 		"description": "data/index.html"
 	},
 	"retweet": {
-		"message": "Ретуит",
+		"message": "Retweet",
 		"description": "data/index.html"
 	},
 	"retweet_or_un_retweet": {
-		"message": "Ретуит/Отмяна",
+		"message": "Retweet/Un-retweet",
 		"description": "data/index.html"
 	},
 	"retweet_successfully": {
-		"message": "Ретуита е успешен!",
+		"message": "Επιτυχημένο Retweet!",
 		"description": "data/js/ui.main.js"
 	},
 	"retweeted_by": {
-		"message": "Ретуитнато от",
+		"message": "Retweeted από",
 		"description": "data/js/ui.template.js"
 	},
 	"retweeting_dots": {
-		"message": "Ретуитване ...",
+		"message": "Retweeting ...",
 		"description": "data/js/ui.main.js"
 	},
 	"retweets": {
-		"message": "Ретуити",
+		"message": "Retweets",
 		"description": "data/js/ui.slider.js"
 	},
 	"retweets_view": {
-		"message": "Ретуитове",
+		"message": "Προβολή Retweets",
 		"description": "data/index.html"
 	},
 	"rt_this_tweet": {
-		"message": "RT този туит",
+		"message": "RT το συγκεκριμένο tweet",
 		"description": "data/js/ui.template.js"
 	},
 	"rule": {
-		"message": "Условие",
+		"message": "Κανόνας",
 		"description": "data/index.html"
 	},
 	"rule_based_filter": {
-		"message": "Филтър по условие",
+		"message": "Φίλτρο βασισμένο σε κανόνες",
 		"description": "data/index.html"
 	},
 	"rule_editor": {
-		"message": "Редактор на условията",
+		"message": "Επεξεργαστής κανόνων",
 		"description": "data/index.html"
 	},
 	"rule_name": {
-		"message": "Име на условие",
+		"message": "Όνομα κανόνα",
 		"description": "data/index.html"
 	},
 	"same_signing_api_base": {
@@ -804,111 +804,111 @@
 		"description": "data/index.html"
 	},
 	"save": {
-		"message": "Запази",
+		"message": "Αποθήκευση",
 		"description": "data/index.html"
 	},
 	"save_as_draft": {
-		"message": "Запази за по-късно",
+		"message": "Αποθήκευση ως πρόχειρο",
 		"description": "data/index.html"
 	},
 	"schizophrenia": {
-		"message": "Шизофрения",
+		"message": "Σχιζοφρένεια",
 		"description": "data/index.html"
 	},
 	"search": {
-		"message": "Търси",
+		"message": "Αναζήτηση",
 		"description": "data/js/ui.slider.js"
 	},
 	"search_api_base2": {
-		"message": "Търси API база",
+		"message": "Αναζήτηση στην βάση API",
 		"description": "data/index.html"
 	},
 	"search_in_google": {
-		"message": "Търси @ в Google",
+		"message": "Αναζήτηση στο Google",
 		"description": "data/index.html"
 	},
 	"search_in_twitter": {
-		"message": "Търси @ в Twitter",
+		"message": "Αναζήτηση στο Twitter",
 		"description": "data/index.html"
 	},
 	"search_view": {
-		"message": "Търсене",
+		"message": "Προβολή αναζήτησης",
 		"description": "data/index.html"
 	},
 	"select_a_default_picture_service": {
-		"message": "Избери услуга за изображения",
+		"message": "Επιλογή προεπιλεγμένης υπηρεσίας εικόνων",
 		"description": "data/index.html"
 	},
 	"select_a_language": {
-		"message": "Избери език",
+		"message": "Επιλογή γλώσσας",
 		"description": "data/index.html"
 	},
 	"select_actions": {
-		"message": "Избери действия",
+		"message": "Select actions",
 		"description": "data/index.html"
 	},
 	"select_fields": {
-		"message": "Избери полета",
+		"message": "Select fields",
 		"description": "data/index.html"
 	},
 	"send_message": {
-		"message": "Изпрати съобщение",
+		"message": "Αποστολή μυνήματος",
 		"description": "data/index.html"
 	},
 	"send_message_to_them": {
-		"message": "Изпрати им съобщения",
+		"message": "Αποστολή μυνήματος σε αυτόν",
 		"description": "data/js/ui.template.js"
 	},
 	"shiny_old_times_before_marriage": {
-		"message": "Страхотните времена преди брака",
+		"message": "Παλιοί καλοί καιροί πριν τον γάμο",
 		"description": "data/index.html"
 	},
 	"shortcuts": {
-		"message": "Бързи връзки",
+		"message": "Συντομεύσεις",
 		"description": "data/index.html"
 	},
 	"sign_in_dots": {
-		"message": "Вписване ...",
+		"message": "Σύνδεση ...",
 		"description": "data/js/ui.welcome.js"
 	},
 	"sign_out": {
-		"message": "Отписване",
+		"message": "Αποσύνδεση",
 		"description": "data/index.html"
 	},
 	"slide_to_next_page": {
-		"message": "Плъзни до следващата страница",
+		"message": "Slide to next page",
 		"description": "data/index.html"
 	},
 	"slide_to_prev_page": {
-		"message": "Плъзни до предишната страница",
+		"message": "Slide to prev page",
 		"description": "data/index.html"
 	},
 	"some_error_occur": {
-		"message": "Някаква грешка се появи",
+		"message": "Κάποιο σφάλμα συνέβη",
 		"description": "data/index.html"
 	},
 	"sound": {
-		"message": "Звук",
+		"message": "Ήχος",
 		"description": "data/index.html"
 	},
 	"starts_minimized": {
-		"message": "Стартирай намален",
+		"message": "Ξεκίνα ελαχιστοποιημένο",
 		"description": "data/index.html"
 	},
 	"stat": {
-		"message": "STAT",
+		"message": "Στατιστικά",
 		"description": "data/index.html"
 	},
 	"status_is_over_140_characters": {
-		"message": "Надвишили сте 140 знака!",
+		"message": "Η κατάσταση είναι μεγαλύτερη από 140 χαρακτήρες!",
 		"description": "data/js/ui.status_box.js"
 	},
 	"step_one": {
-		"message": "Стъпка 1",
+		"message": "Βήμα 1",
 		"description": "data/index.html"
 	},
 	"step_two": {
-		"message": "Стъпка 2",
+		"message": "Βήμα 2",
 		"description": "data/index.html"
 	},
 	"struggling_adventurers": {
@@ -916,31 +916,31 @@
 		"description": "data/index.html"
 	},
 	"successfully": {
-		"message": "Успешно",
+		"message": "Επιτυχώς",
 		"description": "data/js/ui.main.js"
 	},
 	"summon_hotot": {
-		"message": "Summon Hotot (like: <ALT>C)",
+		"message": "Καλέστε το Hotot (όπως: <ALT>C)",
 		"description": "data/index.html"
 	},
 	"system": {
-		"message": "Система",
+		"message": "Σύστημα",
 		"description": "data/index.html"
 	},
 	"system_integration": {
-		"message": "Системна интеграция",
+		"message": "System Integration",
 		"description": "data/index.html"
 	},
 	"theme": {
-		"message": "Тема",
+		"message": "Θέμα",
 		"description": "data/index.html"
 	},
 	"themes": {
-		"message": "Теми",
+		"message": "Θέματα",
 		"description": "data/index.html"
 	},
 	"this_profile_may_has_already_exists": {
-		"message": "Този профил вече съществува!",
+		"message": "Αυτό το προφίλ ίσως υπάρχει ήδη!",
 		"description": "data/js/ui.welcome.js"
 	},
 	"titian_s_elegance": {
@@ -956,119 +956,119 @@
 		"description": "data/index.html"
 	},
 	"transparent": {
-		"message": "Прозрачно",
+		"message": "Διαφάνεια",
 		"description": "data/index.html"
 	},
 	"trending_topics": {
-		"message": "Най-дискутирани",
+		"message": "Τάσεις",
 		"description": "data/js/ui.slider.js"
 	},
 	"trending_topics_view": {
-		"message": "Най-дискутирани",
+		"message": "Προβολή τάσεων",
 		"description": "data/index.html"
 	},
 	"tweet_cnt": {
-		"message": "Туитове",
+		"message": "Tweet",
 		"description": "data/js/ui.template.js"
 	},
 	"tweet_view": {
-		"message": "Туитове",
+		"message": "Προβολή tweet",
 		"description": "data/index.html"
 	},
 	"tweets": {
-		"message": "Туитове",
+		"message": "Tweets",
 		"description": "data/index.html"
 	},
 	"un_favorite_this_tweet_dots": {
-		"message": "Не харесвам този туит ...",
+		"message": "Αφαίρεση από τα αγαπημένα ...",
 		"description": "data/js/ui.main.js"
 	},
 	"unblock": {
-		"message": "Деблокирай",
+		"message": "Απεμπλοκή",
 		"description": "data/js/ui.template.js"
 	},
 	"undo_retweeting_dots": {
-		"message": "Отмяна на ретуитването ...",
+		"message": "Αναίρεση retweet ...",
 		"description": "data/js/ui.main.js"
 	},
 	"undo_successfully": {
-		"message": "Отмяната е успешна!",
+		"message": "Επιτυχής ανέραιση!",
 		"description": "data/js/ui.main.js"
 	},
 	"unfollow_at": {
-		"message": "Не следвай @",
+		"message": "Διακοπή ακολουθίας @",
 		"description": "data/js/ui.main.js"
 	},
 	"update": {
-		"message": "Изпрати",
+		"message": "Ενημέρωση",
 		"description": "data/index.html"
 	},
 	"update_successfully": {
-		"message": "Изпращането успешно!",
+		"message": "Επιτυχής ενημέρωση!",
 		"description": "data/js/ui.status_box.js"
 	},
 	"updating_dots": {
-		"message": "Изпращане ...",
+		"message": "Ενημέρωση ...",
 		"description": "data/js/ui.status_box.js"
 	},
 	"upload": {
-		"message": "Публикувай",
+		"message": "Μεταφόρτωση",
 		"description": "data/index.html"
 	},
 	"upload_api_base": {
-		"message": "Публикувай API Base",
+		"message": "Μεταφόρτωση βάσης API",
 		"description": "data/index.html"
 	},
 	"upload_photo": {
-		"message": "Публикувай снимка.",
+		"message": "Μεταφόρτωση φοτογραφίας.",
 		"description": "data/index.html"
 	},
 	"upload_to_dots": {
-		"message": "Публикувай в ...",
+		"message": "Μεταφόρτωση σε ...",
 		"description": "data/index.html"
 	},
 	"url_shortener": {
-		"message": "Съкращаване на адреси",
+		"message": "Σμίκρινση URL",
 		"description": "data/index.html"
 	},
 	"use_custom_font": {
-		"message": "Използвай собствен шрифт",
+		"message": "Χρήση διαφορετικής γραμματοσειράς",
 		"description": "data/index.html"
 	},
 	"use_native_notify_system": {
-		"message": "Използвай основната система за уведомяване",
+		"message": "Χρήση του συστήματος ειδοποιήσεων του τρέχοντος ΛΣ",
 		"description": "data/index.html"
 	},
 	"use_quote_as_default_retweet_action": {
-		"message": "Използвай ЦИТИРАЙ за основно действие при ретуит",
+		"message": "Χρήση της παράθεσης ως προεπιλεγμένης ενέργειας retweet",
 		"description": "data/index.html"
 	},
 	"use_reply_all_as_default_reply_action": {
-		"message": "Използвай ОТГОВОР ДО ВСИЧКИ като основно действие при отговор",
+		"message": "Χρήση της ΑΠΑΝΤΗΣΗΣ ΣΕ ΟΛΟΥΣ ως προεπιλεγμένης ενέργειας απάντησης",
 		"description": "data/index.html"
 	},
 	"use_ubuntu_indicator": {
-		"message": "Използвай Ubuntu индикатор",
+		"message": "Χρήση Ubuntu Indicator",
 		"description": "data/index.html"
 	},
 	"verify": {
-		"message": "Потвърди",
+		"message": "Επαλήθευση",
 		"description": "data/index.html"
 	},
 	"version": {
-		"message": "Версия",
+		"message": "Έκδοση",
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"via": {
-		"message": "чрез",
+		"message": "μέσω",
 		"description": "data/js/ui.template.js"
 	},
 	"view_more_conversation": {
-		"message": "Покажи още от разговора",
+		"message": "Περεταίρω προβολή συνομιλίας",
 		"description": "data/js/ui.template.js"
 	},
 	"view_original": {
-		"message": "",
+		"message": "Προβολή αυθεντικού",
 		"description": "data/index.html"
 	},
 	"virushou_s_integrity": {
@@ -1076,39 +1076,39 @@
 		"description": "data/index.html"
 	},
 	"wanna_have_relationship_with": {
-		"message": "Искам да се обвържа с",
+		"message": "Wanna have a relationship with",
 		"description": "data/index.html"
 	},
 	"weakness": {
-		"message": "Слабост",
+		"message": "Αδυναμία",
 		"description": "data/js/lib.twitterapi.js"
 	},
 	"web": {
-		"message": "Мрежа",
+		"message": "Ιστότοπος",
 		"description": "data/js/ui.template.js"
 	},
 	"website": {
-		"message": "Страница",
+		"message": "Ιστοσελίδα",
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"whisper": {
-		"message": "Шепот",
+		"message": "Ψίθυρος",
 		"description": "data/js/ui.welcome.js"
 	},
 	"you_are_followed_by_them": {
-		"message": "Те Ви следват.",
+		"message": "Σε ακολουθούν.",
 		"description": "data/js/ui.peopleview.js"
 	},
 	"you_are_following": {
-		"message": "Вие следвате",
+		"message": "Ακολουθείς",
 		"description": "data/js/ui.peopleview.js"
 	},
 	"you_are_friends": {
-		"message": "Вие сте приятели.",
+		"message": "Είστε φίλοι.",
 		"description": "data/js/ui.peopleview.js"
 	},
 	"you_are_not_following_each_other": {
-		"message": "Вие не се следвате един друг.",
+		"message": "Δεν ακολουθείτε ο ένας τον άλλον.",
 		"description": "data/js/ui.peopleview.js"
 	}
 }
